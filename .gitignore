@@ -335,8 +335,6 @@ cython_debug/
 .Rhistory
 .Rapp.history
 
-# Private notes
-/module6/6-notes.txt
-/module7/7-notes.txt
-/module8/8-notes.txt
-/module9/9-notes.txt
+# Powerpoint and word hidden files
+~$*.pptx
+~$*.docx
