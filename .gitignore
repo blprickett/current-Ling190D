@@ -32,7 +32,7 @@ module[0-9]/[0-9]-lab/.OTTER_LOG
 
 # slides
 ~$*
-*.pptx
+#*.pptx
 
 # Thumbnails
 ._*
@@ -335,6 +335,9 @@ cython_debug/
 .Rhistory
 .Rapp.history
 
-# Powerpoint and word hidden files
-~$*.pptx
-~$*.docx
+# Private notes
+module[0-9]/[0-9]-notes.txt
+#/module6/6-notes.txt
+#/module7/7-notes.txt
+#/module8/8-notes.txt
+#/module9/9-notes.txt
